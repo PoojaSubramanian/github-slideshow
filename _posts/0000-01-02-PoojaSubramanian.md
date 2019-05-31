@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Adding something new per suggestion from pull request
 Use the left arrow to go back!
